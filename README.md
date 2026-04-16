@@ -11,7 +11,7 @@ So like every good maker, I decided to design and build my own Nerf blaster from
 This was back in the days when 3D-printing was growing, but still relatively inaccessible. 
 If I were to build anything, I will hand-craft everything myself (just like my airplanes).
 To be clear, this is not my first attempt at building a DIY Nerf blaster: 
-I had built a derivative of SgNerf's [SGN-R3L](https://nerfhaven.com/forums/topic/20453-r-series-blasters-overview/) with some of my own modifications.
+I had built a hybrid of SgNerf's [SGN-R3L](https://nerfhaven.com/forums/topic/20453-r-series-blasters-overview/) and [SGN-PAR55M](https://nerfhaven.com/forums/topic/21061-sgn-par55m-overview). Essentially a pump-action R3L with my own twist.
 I am indebted to SgNerf's designs (particularly the PVC ring catch mechanism) among others. I stand on the shoulders of giants.
 
 This is the only decent first-person-view footage I have of the blaster in action in 2024, 9 years since the project started, 7 years since it started blasting.
@@ -55,6 +55,11 @@ Carving out the angled foregrip
 <img width="400" height="300" alt="20180312_154123" src="https://github.com/user-attachments/assets/7e371318-7df0-4227-86f5-3b210f83417e" />
 
 Catch housing and mechanism
+
+
+
+## 3. More sections for future edits
+To be added
 
 ## Do I recommend it?
 In short, this design, while perfectly functional and fun to use, is hardly competitive, and hardly replicable. The main reason for its existence, again, because I had the itch to make something from scratch. It is still a joy to use, and a conversation starter. If I were to build a new blaster, it will be an entirely new design, taking inspiration from the latest advances in the the Nerfing scene.
