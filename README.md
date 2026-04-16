@@ -75,6 +75,6 @@ Painting the body with bright snake-skin pattern
 To be added
 
 ## Do I recommend it?
-In short, this design, while perfectly functional and fun to use, is hardly competitive, and hardly replicable. The main reason for its existence, again, because I had the itch to make something from scratch. It is still a joy to use, and a conversation starter. If I were to build a new blaster, it will be an entirely new design, taking inspiration from the latest advances in the the Nerfing scene.
+In short, this design, while perfectly functional and fun to use, is hardly competitive and painful to replicate. The only reason for its existence, again, is because I had the itch to make something from scratch. It is still a joy to use, and a conversation starter. If I were to build a new blaster, it will be an entirely new design, taking inspiration from the latest advances in the the Nerfing scene.
 
 For those who are curious enough, I have recently taken the liberty of cleaning up and organising the SketchUp design file so that it is more intelligible. There are incomplete screws, and it does not include the latest changes incorporating 3D-printing. It is there mainly as a reference, and hopefully an inspiration. You can use SketchUp 8 Free (the last great free version of SketchUp) to open and edit it.
